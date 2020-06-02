@@ -6,5 +6,5 @@ Problem statements and solutions(in JAVA) of 30 days June Coding challenge by Le
 
 | # | Problem | Algorithm | Data Structure | Time Complexity | Space Complexity |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | [Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) - [Code](https://github.com/iamkishlayverma/June-Leetcode-Challenge/edit/master/1st-June/solution.java) | Tree Conversion | Binary Tree | O(n) | O(1) |
-| 2 | [Delete Node in a Linked List](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/) - [Code](https://github.com/iamkishlayverma/June-Leetcode-Challenge/edit/master/2nd-June/solution.java) | Node deletion | LinkedList | O(1) | O(1) |
+| 1 | [Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) - [Code](https://github.com/iamkishlayverma/June-Leetcode-Challenge/tree/master/1st-June/solution.java) | Tree Conversion | Binary Tree | O(n) | O(1) |
+| 2 | [Delete Node in a Linked List](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/) - [Code](https://github.com/iamkishlayverma/June-Leetcode-Challenge/tree/master/2nd-June/solution.java) | Node deletion | LinkedList | O(1) | O(1) |
